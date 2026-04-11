@@ -18,7 +18,7 @@
 </div>
  <br />
 <div Gautamgn="center"> 
-  <a href="mailto:VivekGautamarif786@gmail.com">
+  <a href="mailto:VivekGautama14216@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-6C22A6?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
     <a href="https://www.youtube.com/@TheCodePrefer" target="_blank">
